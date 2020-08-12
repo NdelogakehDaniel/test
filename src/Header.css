@@ -1,0 +1,12 @@
+.Header input{
+    width: 360px;
+    height: 55px;
+    text-align: center;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px;
+    font-size: large;
+}
+.Header input:focus{
+    outline: none;
+}

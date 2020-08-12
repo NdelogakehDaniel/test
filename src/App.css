@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+}
+.main{
+  font-size: 60px;
+  font-weight: 800;
+  font-family: Monotype Corsiva;
+  width: 45%;
+  background-color: #F4F4F4;
+}
+.main b{
+  color: #C80000;
+}
+#text{
+  color:#000046;
+}
+.main input{
+  width: 180px;
+  height: 55px;
+  text-align: center;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 10px;
+  font-size: large;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.main input{
+  outline: none;
+}
